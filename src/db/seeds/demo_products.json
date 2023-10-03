@@ -1,0 +1,40 @@
+[
+  {
+    "product_name": "Blue Dream",
+    "product_description": "The Blue Dream strain is known for its sweet berry flavor, with notes of blueberry and citrus. This strain is also said to have a slightly hashy flavor. The aroma of Blue Dream is sweet and fruity. You may also notice some subtle notes of hash and diesel.",
+    "img_url": "https://images.leafly.com/flower-images/blue-dream.png",
+    "product_type": "flower",
+    "strain_type": "sativa",
+    "thc": 0.21,
+    "cbd": 0.02,
+    "price": 15.00,
+    "stock": 500,
+    "inStock": true
+  },
+
+  {
+    "product_name": "Gastro Pop",
+    "product_description": "Gastro Pop is a modern weed strain from top breeder Compound Genetics. Gastro Pop is a cross of Apples & Bananas and Grape Gas. There are multiple variants of Gastro Pop called phenotypes that are numbered. Top phenos include Gastro Pop #5 and Gastro Pop #28. Compound Genetics considered the parent Grape Gas as one of their 'royal families'—superb for making crosses. Gastro Pop has an elite, dramatic look and spicy, sugary, grape, purple fizzy aroma to match. The indica hybrid effects are perfect for relaxing and stoking the appetite for dinner or dessert. You’ll also find Grape Gas powering Pink Certz, Stay Puft, and Glitter Bomb.",
+    "img_url": "https://leafly-public.imgix.net/strains/photos/nyp3Gj41TS6XdbzU5I6v_Compound%20Genetics%20GastroPop%205%20%20(David%20Downs:Leafly).jpeg",
+    "product_type": "flower",
+    "strain_type": "hybrid",
+    "thc": 0.25,
+    "cbd": 0.00,
+    "price": 20.00,
+    "stock": 500,
+    "inStock": true
+  },
+
+  {
+    "product_name": "White Peanut Butter Terp Dough Wax",
+    "product_description": "If you love strains that have a hint of peanut butter in terms of flavor, you’ll quickly become infatuated with White Peanut Butter terp dough from Svin Garden. Terp dough is a little waxy and bursting with flavors, and the consistency makes it perfect for breaking off the perfect dose. White Peanut Butter has a tendency to leave you feeling giddy and happy with an all-over body high that keeps you locked in place.",
+    "img_url": "https://mrgreens.com/wp-content/uploads/2023/08/dank-czar-bonkers-terp-sauce-300x300.webp",
+    "product_type": "concentrate",
+    "strain_type": "hybrid",
+    "thc": 0.70,
+    "cbd": 0.00,
+    "price": 30.00,
+    "stock": 50,
+    "inStock": true
+  }
+]
